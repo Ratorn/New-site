@@ -6,7 +6,7 @@
 }
 
 .background {
-    background-image: url(Фон.jpg);
+    background-image: url('Фон.jpg');
     background-repeat:no-repeat;
     background-size: cover;
     background-attachment: fixed;
